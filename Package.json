@@ -1,0 +1,11 @@
+{
+  "name": "trading-app-backend",
+  "version": "1.0.0",
+  "description": "Trading app backend API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "your-name",
+  "license": "ISC"
+}
